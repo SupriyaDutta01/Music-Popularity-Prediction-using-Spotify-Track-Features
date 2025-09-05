@@ -20,10 +20,7 @@ Predict Spotify track **popularity (0–100)** from audio features and lightweig
 
 ---
 
-## 📦 Project Structure
-.
-├── Popularity Prediction.ipynb   # Main Jupyter Notebook with full pipeline
-├── README.md                     # Project documentation
+
 
 
 ---
